@@ -1,4 +1,5 @@
-# jockenpo
+# Jokenpo
+![Screenshot_2](https://github.com/LeonardoLuisKlein/jokenpo/assets/106256199/8756e24d-ff6d-4b3d-8766-8e6b63e324d6)
 
 A new Flutter project.
 
